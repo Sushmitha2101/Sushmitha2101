@@ -7,4 +7,4 @@ Get to know me :point_down:
 - 👯 I’m looking to collaborate on ... Data Analysis Projects and Deep Learning Projects
 - 🤔 I’m looking for help with ... Backend Programming
 - 💬 Ask me about ... 
-- 📫 How to reach me: ... [My Gmail](sush2163@gmail.com)
+- 📫 How to reach me: ... sush2163@gmail.com
